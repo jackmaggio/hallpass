@@ -1,0 +1,21 @@
+span {
+  margin-right: auto;
+}
+.student-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid black;
+  font-family: sans-serif;
+}
+
+.student-title-span {
+  font-size: medium;
+  font-weight: bolder;
+}
+
+.student-id-span {
+  font-size: small;
+}

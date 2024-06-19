@@ -1,0 +1,22 @@
+.navbar-wrapper {
+  height: 10%;
+  /* background-color: whitesmoke; */
+  background-color: #37376e;
+  color: white !important;
+}
+
+.nav-list {
+  color: white !important;
+}
+.landing-nav {
+  border-bottom: black 1px solid;
+}
+
+.landing-nav-brand {
+  font-size: large;
+  font-weight: bold;
+  color: white !important;
+}
+
+/* .landing-courses-display-wrapper {
+  } */

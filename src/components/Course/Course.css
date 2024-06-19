@@ -1,0 +1,21 @@
+.course {
+  width: 75%;
+  height: 75% !important;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  box-shadow: 0 0 0.2dvw black;
+  display: flex;
+  word-wrap: break-word;
+  flex-direction: column;
+  background-color: lightyellow;
+}
+
+.course-title {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.course-period {
+  font-weight: lighter;
+}

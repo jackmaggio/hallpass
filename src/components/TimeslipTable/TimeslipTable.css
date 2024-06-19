@@ -1,0 +1,90 @@
+th {
+  font-weight: 400;
+}
+
+td {
+  border-bottom: 1px solid lightgrey;
+}
+
+tr {
+  padding: 2rem;
+}
+
+th,
+td {
+  padding: 0.5rem;
+}
+
+.TimeslipTable-wrapper {
+  width: 90%;
+  height: 85%;
+  max-height: 85;
+  background-color: white;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+}
+
+.TimeslipTable-top-header {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.TimeslipTable-heading {
+  float: left;
+  display: flex;
+  padding: 0.5rem;
+  padding-left: 2rem;
+  padding-top: 1rem;
+}
+
+.TimeslipTable-icon-buttons {
+  display: flex;
+  margin-left: auto;
+  padding-right: 2rem;
+  background-color: white;
+}
+
+.TimeslipTable-icon-button {
+  --bs-btn-padding-x: 0.75rem;
+  --bs-btn-padding-y: 0.375rem;
+  padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
+  border: none;
+  background-color: white;
+  height: min-content;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.TimeslipTable-icon-button:hover {
+  background-color: rgb(241, 241, 241);
+}
+
+.TimeslipTable {
+  border-collapse: collapse;
+  text-align: left;
+  padding: 0.5rem;
+}
+
+.TimeslipTable-header {
+  color: grey;
+  font-weight: normal !important;
+  border-bottom: dashed 1px lightgrey;
+}
+
+.TimeslipTable-status-col {
+  text-align: center;
+}
+
+.TimeslipTable-status-img {
+  object-fit: contain;
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}

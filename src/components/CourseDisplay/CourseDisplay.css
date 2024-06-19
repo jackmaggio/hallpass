@@ -1,0 +1,16 @@
+.coursedisplay {
+  width: max-content;
+  height: 100%;
+  min-width: 50px;
+  background-color: whitesmoke;
+  background-color: rgb(232 234 235);
+  color: black;
+  /* border-right: 1px solid black; */
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+}
+
+.coursedisplay-list {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}

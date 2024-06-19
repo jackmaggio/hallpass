@@ -1,0 +1,14 @@
+.coursepage-display-wrapper {
+  height: 90%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.table-display-wrapper {
+  display: flex;
+  height: 100%;
+  flex-grow: 100;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+}
