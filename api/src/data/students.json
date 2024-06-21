@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fname": "jack",
+      "lname": "maggio",
+      "email": "jmaggio@wcpss.net",
+      "studentid": "123412"
+    },
+    {
+      "id": 2,
+      "fname": "lane",
+      "lname": "nick",
+      "email": "lnick@wcpss.net",
+      "studentid": "34234"
+    }
+  ]
+}

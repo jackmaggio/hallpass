@@ -1,0 +1,36 @@
+{
+  "timeslips": [
+    {
+      "id": 1,
+      "leftAt": "9:20am",
+      "returnedAt": "9:35am",
+      "studentId": 1,
+      "duration": 15,
+      "date": "06-17-2024"
+    },
+    {
+      "id": 2,
+      "leftAt": "9:45am",
+      "returnedAt": "9:55am",
+      "studentId": 2,
+      "duration": 10,
+      "date": "06-17-2024"
+    },
+    {
+      "id": 3,
+      "leftAt": "2:00pm",
+      "returnedAt": "3:00pm",
+      "studentId": 1,
+      "duration": 60,
+      "date": "06-17-2024"
+    },
+    {
+      "id": 4,
+      "leftAt": "9:20am",
+      "returnedAt": "9:35am",
+      "studentId": 3,
+      "duration": 15,
+      "date": "06-18-2024"
+    }
+  ]
+}
